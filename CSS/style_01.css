@@ -1,0 +1,339 @@
+
+.button-main {
+    border: none;
+    font-weight: 500;
+    padding: 10px 25px;
+    border-radius: 5px;
+    cursor: pointer;
+    background: #f8b236;
+    margin-top: 20px;
+}
+
+
+.applymian-form,
+.brouchure-form {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #00000087;
+    overflow-y: scroll;
+    bottom: 0;
+    right: 0;
+    overflow-x: hidden;
+    z-index: 1072;
+    display: none;
+    padding: 45px 0;
+}
+
+
+
+.apply-form {
+    background: #fff;
+    padding: 45px;
+    width: 445px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.errormsg {
+    display: none;
+    position: absolute;
+    background: #e01a21;
+    color: #fff;
+    font-size: 10px;
+    bottom: 7px;
+    left: 6px;
+    z-index: 1;
+    padding: 1px 10px;
+    border-radius: 50px;
+}
+
+.form-control {
+    margin-bottom: 25px;
+    height: 45px;
+}
+
+.form-control:focus {
+    box-shadow: none;
+}
+
+span.close-modal:hover {
+    transform: rotate(90deg);
+    opacity: 1;
+}
+
+span.close-modal {
+    display: block;
+    color: #000;
+    font-size: 2.5rem;
+    font-weight: 100;
+    position: absolute;
+    top: 0;
+    cursor: pointer;
+    right: 15px;
+    transition: all .3s ease-in-out;
+    opacity: .7;
+}
+
+.apply-form h1:before {
+    border: 1px solid;
+    width: 50px;
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    bottom: -12px;
+}
+
+.apply-form h1 {
+    color: #333;
+    font-size: 27px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 45px;
+    position: relative;
+}
+
+
+
+a.readmore {
+    position: absolute;
+    bottom: 18px;
+    color: #333;
+}
+
+a.readmore svg {
+    width: 15px;
+    margin-left: -15px;
+    opacity: 0;
+    transition: all .3s ease-in-out;
+}
+
+a.readmore:hover>svg {
+    margin-left: 0;
+    opacity: 1;
+}
+
+.rank h5 {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: normal;
+    margin: 20px 0 0px;
+    color: #333;
+}
+
+
+
+section.rankings-sec {
+    background: aliceblue;
+    padding: 65px 0;
+}
+
+section.rankings-sec h2 {
+    margin-bottom: 50px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+
+
+
+@keyframes bouncecall {
+    0%,
+    20%,
+    50%,
+    80%,
+    100% {
+        transform: translateY(0);
+    }
+    40% {
+        transform: translateY(-3px);
+    }
+    60% {
+        transform: translateY(-4px);
+    }
+}
+
+.border-btn {
+    background: red;
+    color: #ffffff;
+    border: 1px solid;
+
+}
+
+.contact-footer {
+    display: none;
+}
+
+.brouchure-form>div {
+    width: 65%;
+    margin: auto;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.brouchure-mainbox,
+.live-img {
+    width: 50%;
+}
+
+.brouchure-mainbox {
+    padding: 60px 35px;
+}
+
+.live-img .brouchure-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 98%;
+    color: #fff;
+    padding: 0 20px;
+    transform: translate(-50%, -50%);
+}
+
+.brouchure-text h1 {
+    font-size: 23px;
+}
+
+.brouchure-text p {
+    font-size: 14px;
+}
+
+.home-text li {
+    font-size: 14px;
+}
+
+.addmission-pro li>span {
+    font-size: 25px;
+    margin-bottom: 12px;
+    display: block;
+    color: #d39e00;
+}
+
+div#ourwork img {
+    width: auto;
+    margin: auto;
+}
+
+.our-leraner {
+    padding: 80px 0;
+}
+
+.brouchure-mainbox,
+.live-img img {
+    height: 100%;
+}
+
+.home-courses span {
+    display: inline-block;
+    font-size: 17px;
+    border: 1px solid;
+    padding: 3px 10px;
+    border-radius: 5px;
+    color: #f8b236;
+}
+
+.home-courses {
+    position: relative;
+    top: -15px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+section.section-thankyou h1 {
+    font-size: 85px;
+    font-weight: 800;
+    letter-spacing: 3px;
+}
+
+section.section-thankyou {
+    text-align: center;
+    padding: 130px 0 65px;
+}
+
+section.section-thankyou svg {
+    width: 120px;
+    color: #d39e00;
+}
+
+section.section-thankyou p {
+    font-size: 21px;
+    font-weight: 100;
+}
+
+.video-playbtn {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    width: 45px;
+    z-index: 1;
+    cursor: pointer;
+}
+
+button.close {
+    position: absolute;
+    top: 0px;
+    right: 0;
+    font-weight: 100;
+    width: 28px;
+    height: 29px;
+    background: #3c3c3c;
+    opacity: 1;
+    z-index: 9;
+    color: #fff;
+    transition: all .3s ease-in-out;
+}
+
+button.close:hover {
+    opacity: 1 !important;
+    color: #fff !important;
+    font-size: 30px !important;
+}
+
+li.nav-item {
+    background: #f8b236;
+    padding: 0px 15px;
+    border-radius: 45px;
+}
+
+.errormsglive,
+.errormsgmodal {
+    display: none;
+}
+
+p.only-desktop {
+    font-size: 14px;
+    font-weight: 300;
+}
+
+span.arrowback {
+    font-size: 25px;
+}
+
+a.callnowtnq {
+    background: linear-gradient(161.7deg, #f7415f -8.74%, #fe734e 94.03%);
+    color: #fff;
+    border: 2px solid;
+    padding: 10px;
+    display: block;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    transition: all .3s ease-in-out;
+}
+
+.thankyou-flex a.modal-toggle {
+    border-radius: 5px;
+    padding: 10px;
+    border: 2px solid;
+    color: #fff;
+}
+
+.thankyou-flex .modal-toggle img {
+    width: 20px;
+}
+
+.show-mobilelist {
+    display: none;
+}

@@ -1,0 +1,2677 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+@media only screen and (min-width: 1900px) and (max-width:2500px) {
+.slideone,  .slidetwo {
+	max-width: 1700px;
+	margin: auto;
+	position: inherit;
+}
+.slidetwo .slidebannerContentInner {
+	padding-top: 220px;
+	padding-left: 110px;
+}
+.slidethree .slidebannerContent .bannerImage img {
+    width: inherit;
+}
+
+
+}
+
+ @media only screen and (min-width: 700px) and (max-width:1400px) {
+.navigation ul li {
+    float: left;
+    margin: 0 15px;
+}
+	
+.praiseproslide .bannerImage {
+right: -11%;}	
+	
+	
+.paddingCommon1 {
+    padding: 50px 0;
+}
+
+.concetivty_block {
+    padding-bottom: 50px;
+}
+
+.paddingCommon2 {
+    padding-top: 50px;
+}
+.slideone img.alignleft {
+    width: auto;
+}
+
+blockquote.alignleft, figure.wp-caption.alignleft, img.alignleft {
+    margin: 7px 24px 7px 0;
+    width: 470px;
+}	
+
+.slidefour .slidebannerContentInner h3 {
+    margin: 80px 0 0 0;
+}
+.slidefour .slidebannerContentInner h4 {
+    font-size: 85px;
+    margin: -25px 0 0 0;
+}
+.slidefour .slidebannerContentInner h3 {
+    font-size: 85px;
+    margin: 80px 0 0 0;
+}
+.slidefour .slidebannerContentInner .headingStyle {
+    font-size: 85px;
+margin-left: 22px;}
+
+.praiseproslide .slidebannerContentInner img {
+    width: 70%;
+}
+
+.praiseproslide .slidebannerContentInner h3 {
+    font-size: 110px;
+}
+	
+	
+}
+
+@media only screen and (min-width: 900px) and (max-width:1440px) {
+.navigation ul li {
+    margin: 0 15px;
+}
+
+}
+
+
+ @media only screen and (min-width: 1025px) and (max-width:1366px) {
+
+.innerBanner {
+	margin-left: -55px;
+    position: relative;
+}
+
+.slidethree .slideBTn {
+    margin-left: -800px;
+    margin-bottom: 70px;
+}
+
+.litePorductbanner .slideone img {
+    max-width: 100%;
+}
+
+.litePorductbanner .slideone .bannerImage {
+    position: absolute;
+    left: 0;
+    right: -38%;
+    margin: 0 auto;
+    width: 740px;
+    top: 50px;
+    transition: top ease 0.5s;
+}
+
+.praiseProBannerContent {
+	top: 100px!important;
+    right: -35px;
+}
+
+.page-id-38 .praiseProBannerImg img {
+    max-width: 70%;
+}
+.page-id-38 .ridgeBannerContent {
+    position: absolute;
+    right: 0;
+    top:80px;
+	    z-index: 10;
+}
+.page-id-38 .innerBanner {
+    min-height: 600px;
+}
+.page-id-38 .headingStyle {
+    font-size: 70px;
+    font-weight: 300;
+}
+.page-id-38 .productBannerContent h2 {
+    font-size: 60px;
+    margin: 0;
+    line-height: 80px;
+    display: block;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.page-id-38 .productBannerContent h2 span {
+    font-size: 80px;
+    display: block;
+}
+.page-id-38 .ridgeBannerContent .prdt_weitBlock ul li h4 {
+    display: inline-block;
+    font-size: 18px;
+    color: #eff3f5;
+    margin: 0px 0px 8px;
+}
+.page-id-38 .prdt_weitBlock ul li p {
+    font-size: 12px;
+    color: #eff3f5;
+}
+.page-id-38 .productBannerContent .testDriveBtn {
+    margin: 0 0 0 100px;
+    color: #000;
+    padding: 15px 70px 15px 40px;
+    display: inline-block;
+    border: 2px solid #fff;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    background: #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+    transition: all 0.3s ease-in-out;
+    position: relative;
+}
+.page-id-38 .praiseProBannerImg {
+    position: absolute;
+    left: 0;
+    top: 100px;
+}
+
+/*R30 css start*/
+
+.page-id-46 .slidetwo {
+    background: #fff;
+    display: block;
+    min-height: 730px;
+    position: relative;
+}
+.page-id-46 .fadedTextBanner {
+    position: absolute;
+    z-index: -1;
+    left: 8%;
+    width: 70%;
+}
+
+.page-id-46 .slidetwo .slidebannerContentInner {
+    padding-top: 170px;
+    padding-left: 50px;
+    position: absolute;
+    z-index: 100;
+    left: 50%;
+}
+.page-id-46 .slidetwo .bannerImage {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0;
+    width: 700px;
+    top: 120px;
+    transition: top ease 0.5s;
+}
+.page-id-46 .slidetwo .productBRBannerBlock {
+    position: absolute;
+    top: 600px;
+    right: 10%;
+}
+
+/*R30 css end*/
+
+
+.carousel-rightContent {
+    margin-top: 0%;
+}
+.steps_block .block-list li {
+    width: 32.1%;
+    padding: 0px 10px 0 40px;
+}
+.footerColumBlock img{    width: 70%;}
+
+.footerColumBlock h4 {
+    margin-top: 0px;
+}
+
+.our_Philosophy ul li {
+width: 30%;}
+
+.navigation ul li {
+    margin: 0 12px !important;
+}
+
+.paddingCommon1 {
+    padding: 50px 0;
+}
+
+section.Mission_VisionBlock img {
+    min-height: 600px;
+}
+
+.description-column2, .description-column1  {
+padding: 0 7%;}
+
+.ipraiseplusBannerContent .praiseProBannerContent {
+    right: -5%;
+}
+ .praiseProbanner {
+    min-height: 410px;
+}
+ .ridgeplusleft h3 {
+    font-size: 50px;
+}
+ .ridgeplusleft .headingStyle {
+ margin-left: 0px;}
+ 
+
+.ridgeplusleft h4 {
+    font-size: 70px;
+    margin: -21px 0 0 0;
+} 
+ 
+ .ridgeplusleft h2 {
+    height: 100px;
+}
+ 
+ 
+ .page-id-38 .productBannerContent .testDriveBtn {
+    padding: 15px 70px 15px 5px;
+}
+ 
+ .ridgeplusshape {
+    height: 100%;
+	right: 0;
+    width: 100%;
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ }
+ 
+ 
+ @media only screen and (max-width: 1200px) {
+	
+.text-description h2 {
+    font-size: 40px !important;
+}
+	
+	
+	.page-id-1574 .container {
+    width: 100%;
+}
+}
+
+@media only screen and (max-width: 1024px) {
+.aboutus h1 {
+	font-size: 35px;
+	margin-bottom: 30px;
+}
+.aboutus h4 {
+	width: 90%;
+	font-size: 16px;
+}
+.aboutus .okinawaVideo {
+	height: auto;
+}
+
+.videoContainer h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+    margin-top: 0;
+}
+
+.OkinawaPhilosophy {
+    padding: 0px 0px 40px!important;
+}
+.our_Philosophy p {
+	width: 90%;
+	margin: 0 auto 20px
+}
+.our_Philosophy ul li {
+	width: 90%;
+	margin: 10px 10px 10px 10px;
+	min-height: auto;
+}
+.description-column2, .description-column1 {
+    width: 100%;
+    display: inherit;
+    height: auto;
+    padding: 20px 4%;
+}
+
+.image-column2,  .image-column1 {
+	width: 100%;
+	height: auto;
+}
+.inner_blog_left,  .inner_blog_right {
+	padding: 0;
+	margin-bottom: 50px;
+}
+.profileimg {
+	width: 100%;
+}
+.profileimg img {
+	width: 100%;
+}
+.carousel-rightContent {
+	width: 100%;
+}
+.aboutContnt {
+	padding-bottom: 40px;
+	padding-top: 40px;
+}
+.image-column1 img,  .image-column2 img {
+	width: 100%;
+}
+.fixedSidebar {
+	display: block;
+}
+.outerWrapper {
+	margin-left: 0;
+}
+.header {
+	padding-left: 15px;
+	position: fixed;
+}
+.navigation ul li {
+	float: left;
+	margin: 0 15px;
+}
+.videoContainer p {
+	padding: 0;
+}
+.powerinnerImg {
+	width: 100%;
+	float: left;
+}
+.powerinner1 {
+	width: 100%;
+}
+.mapBlock {
+	margin: 40px 0px 0px 40px;
+}
+.footer_bottomBlock {
+	padding: 40px 40px 0px;
+}
+.paddingCommon2 {
+	padding-top: 80px;
+}
+#topNav {
+	display: none;
+}
+.header #topNav {
+	display: none;
+	position: fixed;
+	left: 0;
+	top: 0;
+	height: 80vh;
+	width: 100%;
+	background: #fff;
+	z-index: 1000;
+	overflow: auto;
+}
+.closeMenu {
+	display: none;
+}
+.header #topNav .closeMenu {
+	display: block;
+	position: fixed;
+	right: 15px;
+	top: 10px;
+	width: 50px;
+	height: 50px;
+	background: #0f2b27;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-ms-border-radius: 100px;
+}
+.header .logo {
+	margin-left: 0px;
+}
+.burgerMenu {
+	display: none;
+}
+.header .burgerMenu {
+	display: block;
+	position: fixed;
+	right: 15px;
+	top: 10px;
+	width: 50px;
+	height: 50px;
+	background: #ed1c24;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-ms-border-radius: 100px;
+}
+.burger__icon__line {
+	background: #fff;
+	display: block;
+	width: 20px;
+	height: 1px;
+	position: absolute;
+	top: 25px;
+	left: 15px;
+	-webkit-transform: translate3d(0, 3px, 0);
+	transform: translate3d(0, 3px, 0);
+	-webkit-transition: -webkit-transform .2s ease .2s;
+	transition: -webkit-transform .2s ease .2s;
+	transition: transform .2s ease .2s;
+	transition: transform .2s ease .2s, -webkit-transform .2s ease .2s;
+}
+.burger__icon__line:first-child {
+	-webkit-transform: translate3d(0, -3px, 0);
+	transform: translate3d(0, -3px, 0);
+}
+.close__icon__line {
+	background: #fff;
+	display: block;
+	width: 20px;
+	height: 1px;
+	position: absolute;
+	top: 25px;
+	left: 15px;
+	transform: rotate(-45deg);
+	-webkit-transition: -webkit-transform .2s ease .2s;
+	transition: -webkit-transform .2s ease .2s;
+	transition: transform .2s ease .2s;
+	transition: transform .2s ease .2s, -webkit-transform .2s ease .2s;
+}
+.close__icon__line:first-child {
+	transform: rotate(45deg);
+}
+.header .navigation ul {
+	width: auto!important;
+	padding: 0!important;
+	text-align: left!important;
+	top: 0!important;
+	display: block!important;
+}
+.headfixed .navigation .sub-menu {
+	margin-left: 20px;
+}
+.header .navigation ul li {
+	float: none;
+	display: block;
+}
+.header .navigation ul li a {
+	color: #000;
+	font-size: 18px;
+}
+.header.darkHeader .navigation ul li a {
+	color: #000!important;
+	font-size: 18px!important;
+	padding: 8px 0;
+}
+.slideone .slidebannerContentInner .headingStyle{
+	font-family: 'dubielitalic', arial, sans-serif;
+	color: #01b1ba;
+	font-size: 40px;
+	font-weight: 300;
+	position: relative;
+	margin-top: -20px;
+	display: block;
+}
+.litePorductbanner .slideone .slidebannerContentInner .headingStyle {
+	font-family: 'dubielitalic', arial, sans-serif;
+	color: #ed1c24;
+	font-size: 40px;
+	font-weight: 300;
+	position: relative;
+	margin-top: -20px;
+	display: block;
+}
+.slideone .slidebannerContentInner h2, .litePorductbanner .slideone .slidebannerContentInner h2 {
+	font-size:100px;
+	margin: 0;
+	display: block;
+	color: #ed1c24;
+	font-weight: 300;
+	font-style: italic;
+}
+.slideone .slidebannerContentInner, .litePorductbanner .slideone .slidebannerContentInner {
+	padding-top: 100px;
+	padding-left: 70px;
+	position: relative;
+	z-index: 100;
+	width: 100%;
+	padding-right: 20px;
+	text-align: center;
+}
+.slideone .bannerImage, .litePorductbanner .slideone .bannerImage {
+	position: relative;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	width: 90%;
+	top: 0;
+	transition: top ease 0.5s;
+}
+.slideone .productBRBannerBlock, .litePorductbanner .slideone .productBRBannerBlock  {
+	position: absolute;
+	top: 700px;
+	right: 0;
+	display: none;
+}
+.litePorductbanner .slideone img {
+    max-width: 100%;
+}
+.shape3 {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	width: 70%;
+	height: 100%;
+}
+.shape4 {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 50%;
+	background: #f7ce04;
+	margin: 0 auto;
+	opacity: 1;
+	-webkit-border-bottom-right-radius: 70px;
+	-moz-border-radius-bottomright: 70px;
+	border-bottom-right-radius: 70px;
+	top: 0;
+}
+.slidetwo .bannerImage {
+	position: relative;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	width: 100%;
+	top: 100px;
+	transition: top ease 0.5s;/* text-align: center; */
+}
+.slidetwo .slidebannerContentInner {
+	padding-top: 100px;
+	padding-left: 0;
+	position: relative;
+	z-index: 100;
+	left: 0;
+	width: 100%;
+	margin: auto;
+	text-align: center;
+}
+.slidetwo .productBRBannerBlock {
+	display: none;
+}
+.steps_block .block-list li {
+	width: 100%;
+	padding: 20px 30px 20px 60px;
+}
+.middle-block {
+	min-height: 720px;
+}
+.middle-block::before {
+	display: none;
+}
+.steps_block .block-list li {
+	border-bottom: solid 1px rgba(255, 255, 255, 0.24);
+	border-right: 0px;
+}
+.list_block p {
+	width: 100%;
+}
+.list_block img {
+	margin: 0px 0px 0px 0px;
+}
+.steps_block .block-list {
+	top: 40px;
+}
+.G_portflio_mobileView {
+	display: block;
+}
+.animation-wrapper.desktop_view {
+	display: none;
+}
+.G_portflio_mobileView .left_section {
+	width: 100%;
+	float: left;
+	padding: 10px 10px 10px;
+	color: #fff;
+}
+
+.G_portflio_mobileView .content_block1 {
+	background: #0f2b27;
+}
+.G_portflio_mobileView .content_block2 {
+	background: #abd278
+}
+.G_portflio_mobileView .content_block3 {
+	background: #0f2b27
+}
+.G_portflio_mobileView .content_block2 .left_section {
+	color: #000;
+}
+.G_portflio_mobileView .left_section h2 {
+	font-size: 22px;
+}
+.okinawaVideo {
+	height: auto;
+	margin-top: 30px;
+}
+.paddingCommon3 {
+	padding-top: 30px;
+	padding-bottom: 80px;
+}
+.praiseProBannerImg img {
+	max-width: 100%;
+}
+.praiseProBannerImg {
+	left: 0;
+}
+.headingStyle {
+	font-size: 60px;
+	text-align: center;
+}
+.ipraiseplusBannerContent .praiseProBannerContent .headingStyle {
+    text-align: center;
+}
+
+.productBannerContent h2 {
+	font-size: 35px;
+	text-align: center;
+	line-height: 40px;
+}
+
+.ipraiseplusBannerContent .praiseProBannerContent h2 {
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 40px;
+}
+.productBannerContent h2 span {
+	font-size: 40px;
+	display: inline-block;
+}
+.praiseProBannerContent {
+	right: 0;
+	top: 565px;
+	left: 0;
+	text-align: center;
+}
+.ipraiseplusBannerContent .praiseProBannerContent {
+    position: absolute;
+    right: 0%;
+    top: 110px;
+    width: 600px;
+    z-index: 10;
+    left: 60px;
+}
+
+.innerBanner {
+	margin-left: 0px;
+	min-height: 950px;
+}
+.headfixed .logo {
+	margin-left: 0px;
+}
+.outerWrapper {
+	margin-left: 0px;
+}
+.header.darkHeader {
+	padding-left: 15px;
+}
+.praiseProBannerImg img {
+	max-width: 70%;
+}
+.praiseProBannerImg {
+	position: absolute;
+	left: 30px;
+	top: 90px;
+}
+.ipraiseplusBannerContent .praiseProBannerImg {
+    position: absolute;
+    left: 150px;
+    top: 520px;
+}
+
+.prdt_weitBlock {
+	text-align: center;
+	padding: 0px!important;
+}
+.prdt_weitBlock ul li p {
+	font-size: 12px;
+	margin: 0px;
+}
+.prdt_weitBlock ul li h4 {
+	font-size: 18px;
+	margin: 0px 0px 0px;
+}
+.prdt_weitBlock ul li {
+	margin: 30px 0px 40px 0px;
+	padding: 0px 10px 0px 10px;
+}
+.prdt_weitBlock ul li {
+	width: 25%;
+	vertical-align: top;
+	text-align: center;
+}
+.productBannerContent .testDriveBtn {
+	margin: 10px 0 0 0px;
+}
+.paddingCommon1 {
+	padding: 40px 0;
+}
+.productMileage {
+	margin-top: 0px;
+	text-align: center;
+}
+.tab + label {
+	height: auto;
+	font-size: 16px;
+}
+.specific_listBLock ul li {
+	margin: 0;
+	padding: 20px 0px 20px;
+	width: 100%;
+}
+.tab-wrap {
+	margin: 40px 0 0px;
+}
+.headingContainer h2 {
+	font-size: 35px;
+	margin: 0px 0px 30px;
+}
+.paddingCommon4 {
+	padding-bottom: 0px;
+}
+h2.p-section__header {
+	font-size: 30px;
+}
+.wp-block-column h3 {
+	font-size: 16px;
+	text-align: center;
+	line-height: 23px;
+}
+.headingContainer {
+	padding: 50px 0px 50px!important;
+}
+.p-section__in {
+	width: 100%!important;
+	display: inline-block!important;
+	margin: 0px 0px 0px 0px!important;
+	position: relative;
+}
+.p-section {
+	height: auto!important;
+}
+.p-pager {
+	bottom: 30px!important;
+	left: -70px!important;
+}
+.fullscreen_slider1 {
+	height: 410px!important;
+}
+.p-pager__in {
+	display: block!important;
+}
+.p-pager__pointer p {
+	font-size: 14px!important;
+}
+.p-pager__pointer {
+	height: 30px!important;
+	display: inherit!important;
+}
+h2.p-section__header {
+	font-size: 25px!important;
+}
+.p-section__text {
+	font-size: 14px!important;
+}
+.slideone .greenbutton {
+	margin: 0px 0px 20px 0px;
+}
+.p-section__text img {
+	display: none;
+}
+.wp-block-column, .topContentBlock .wp-block-column, .topContentBlock .wp-block-column:not(:last-child) {
+	flex-basis: 100%;
+}
+.header.darkHeader.headfixed .navigation ul li.navContact a {
+	color: #fff!important;
+	display: block;
+	padding: 12px;
+	margin: 0 20px;
+}
+.sub-menu .menu-item a:hover:after {
+	top: 8px!important;
+}
+.header.darkHeader .navigation ul li a:hover {
+	color: #c6150b!important;
+}
+
+.specificationBlock img {
+    position: relative;
+    left: 0;
+    top: 0;
+    max-width: 100%;
+}
+
+
+/*Ridge Banner Css Start*/
+
+.innerBanner.ridgeBannerInner{
+	min-height:auto;	
+}
+.ridgeproductRight{
+	width:100%;
+    margin-left: 0;
+    margin-top: 5%;	
+	    position: relative;	
+}
+.ridgeproductLeft {
+    float: none;
+    width: 100%;
+    margin-top: 7%;
+    margin-right: 0;
+    position: relative;
+    right: 0;
+    z-index: 10;
+    left: 0;
+	text-align:center;
+}
+.ridgeproductLeft h1 img{margin:auto;}
+
+h2.resp-accordion:first-child {
+    border-top: 0px solid #c1c1c1 !important;
+}
+.featuresHead {
+    text-align: center;
+    padding-left: 0;
+    padding-top: 0;
+    position: relative;
+    color: #fff;
+    font-size: 32px;
+	    margin: 40px 0px 40px;
+}
+.calciBlock {
+    margin: auto;
+    width: 100%;
+}
+.calciBlock input.calcibtn, .calciBlock input.calciresetbtn {
+    width: 100%;
+    margin: 10px 0px;
+}
+
+/*Ridge Banner Css End*/
+.floating-contact{
+    bottom: 10px;	
+}
+
+
+
+
+.slidefour .greenbutton {
+    margin: 0px 0px 20px 0px;
+}
+	 
+.praiseproslide .greenbutton {
+    margin: 0px 0px 20px 0px;
+}
+	 
+.mobilevideobg {
+        background: url(../../../uploads/2020/04/iphone.png) no-repeat center center;
+        width: 100%;
+        height: 690px;
+}	 
+	 
+ .mobilevideobg .videobg {
+    width: 100%;
+    top: 46px;
+    right: 0;
+    left: -18px;
+    height: 615px;
+}
+
+.abouthead h2 {
+    font-size: 30px;
+	margin-bottom: 30px;
+}	
+.topContentBlock.wp-block-column:not(:first-child){
+    margin: 50px 0px 0px 0px;
+}
+
+.page-id-1574 .wp-block-column:nth-child(2n) {
+    margin: 0px 0px 0px 0px;
+}
+
+.featuredouterCCBlk .featureimg img {
+    height: 100%;
+}
+
+.featureBlockDiv {
+    height: 100%;
+}
+.featureCnt {
+    padding-left: 20px;
+}
+
+.fame2block {
+    margin: 0 0 0px 0;
+}
+.redpraiseproshape {
+    left: 0;
+}
+.praiseProbanner {
+    min-height: 525px;
+}
+
+.resp-vtabs ul.resp-tabs-list {
+    margin: 10% 0% 10% 3%;
+}
+.ridgeplusimgRight {
+    width: 100%;
+}
+.ridgeplusleft {
+    width: 100%;
+    margin-top: 100px;
+    text-align: center;
+}
+/* .container {
+    width: 1170px;
+} */
+.ridgeplusleft .headingStyle {
+    margin-left: 0;
+    position: inherit;
+}
+.ridgeplusleft h3 {
+    margin: 0px 0 0 0;
+}
+
+.ridgeplusBannerContent.innerBanner {
+    min-height: 800px;
+}
+
+.ridgeplusshape {
+    right: 0%;
+    width: 100%;
+}
+
+.G_portflio_mobileView .right_section {
+	width: 100%;
+	float: right;
+	color: #fff;
+	padding: 0px 15px 50px;
+}
+
+.innernewletter h4 {
+    width: 100%;
+}
+
+.innernewletter aside {
+    width: 100%;
+}
+
+
+
+
+.innernewletter aside#newsletterwidgetminimal-2 .tnp-widget-minimal input.tnp-email {
+    width: 77.5%;
+}
+
+.innernewletter {
+    display: inline-block;
+}
+
+.Mission_VisionBlock img {
+    height: auto;
+}
+.description-column1 h2, .description-column2 h2 {
+    margin-top: 0;
+}
+
+.woocommerce .paddingCommon1 {
+    padding: 110px 0px 0px;
+}
+.woocommerce article {
+    padding: 0px 20px;
+}
+
+.woocommerce ul.products[class*=columns-] li.product, .woocommerce-page ul.products[class*=columns-] li.product {
+    width: 100%;
+}
+
+.woocommerce .woocommerce-ordering select {
+    width: 100%;
+    padding: 7px 10px;}
+	
+.woocommerce ul.products {
+    margin: 1em 0 0em;
+}
+.woocommerce ul.products[class*=columns-] li.product, .woocommerce-page ul.products[class*=columns-] li.product {
+    margin: 0 0 1.992em;
+}
+
+
+
+
+
+
+}
+
+
+@media only screen and (max-width: 990px) {
+	.owl-carousel .owl-item img {
+    display: block!important;
+}
+	
+	.owl-carousel .owl-item p:nth-child(2) {
+    padding: 0 15px;
+	margin:0;
+}
+
+
+
+.floating-contact{
+	z-index:99999;	
+}
+.numberblock a{
+	padding:8px 20px;
+	font-size:14px;	
+}
+.dashcircle-customblock .spinner, .dashcircle-customblock .spinner1{
+	width:100%;
+	height:100%;	
+}
+.productSlider .item{
+	padding-bottom:72px;
+}
+
+}
+
+
+ @media only screen and (max-width:767px) {
+.slideone .greenbutton {
+	margin: 0 auto 20px;
+	display: block;
+	width: 65%;
+}
+.p-section__text img {
+	display: none;
+}
+.aboutus h1 {
+	font-size: 35px;
+	margin-bottom: 30px;
+	margin-top: 50px;
+}
+.aboutus h4 {
+	width: 90%;
+	font-size: 16px;
+}
+.aboutus .okinawaVideo {
+	height: auto;
+	margin: 30px 0px 0px;
+}
+.OkinawaPhilosophy {
+	padding: 0px 0px 40px!important;
+	border-bottom-left-radius: 0px;
+}
+.our_Philosophy p {
+	width: 90%;
+	margin: 0 auto 20px
+}
+.our_Philosophy ul li {
+	width: 90%;
+	margin: 10px 10px 10px 10px;
+	min-height: auto;
+}
+
+.image-column2,  .image-column1 {
+	width: 100%;
+	height: auto;
+}
+.inner_blog_left,  .inner_blog_right {
+	padding: 0;
+	margin-bottom: 50px;
+}
+.profileimg {
+	width: 100%;
+}
+.profileimg img {
+	width: 100%;
+}
+.carousel-rightContent {
+	width: 100%;
+}
+.aboutContnt {
+	padding-bottom: 40px;
+	padding-top: 40px;
+}
+.image-column1 img,  .image-column2 img {
+	width: 100%;
+}
+.footer_bottomBlock {
+	padding: 20px 20px 0px;
+	margin: 20px 0px 0px;
+	text-align: center;
+}
+.footer_bottomBlock .disclamertext {
+	margin: 10px 0px 0px;
+}
+.footer_block {
+	padding-bottom: 40px;
+}
+.footerColumBlock img {
+	width: 80%;
+}
+.hand_img {
+	width: 100%;
+}
+.powerinner1 h2 {
+	font-size: 35px;
+}
+.videoContainer h2, .abouthead h2 {
+	font-size: 35px;
+	margin-bottom: 30px;
+	margin-top: 0px;
+}
+.concetivty_block ul {
+	margin: 30px 0px 30px;
+}
+.concetivty_block ul li {
+	margin: 20px 0px;
+}
+.paddingCommon2 {
+	padding-top: 40px;
+}
+.our_news_block h2 {
+	margin: 0px 0px 40px;
+	font-size: 35px;
+}
+.inner-footer {
+	padding: 0px 20px;
+	text-align: center;
+}
+.steps_block .block-list li {
+	width: 100%;
+}
+.list_block img {
+	display: none;
+}
+.steps_block .block-list li {
+	padding: 0px 20px 0 20px;
+	margin: 0px 0px 0px 0px;
+	text-align: center;
+	border: 0px;
+}
+.list_block h4 {
+	margin: 0px 0px 10px;
+	font-size: 20px;
+}
+.list_block p {
+	font-size: 14px;
+}
+.middle-block::before {
+	display: none;
+}
+.steps_block .block-list {
+	top: 0;
+}
+.middle-block {
+	min-height: auto;
+	padding: 40px 0px;
+}
+.block-list .last-child .list_block {
+	border-bottom: 0px;
+}
+.list_block {
+	border-bottom: solid 1px rgba(255, 255, 255, 0.24);
+	padding: 18px 0px 10px;
+}
+.steps_block {
+	margin-top: 0px;
+	padding-top: 0px;
+}
+.footerthrdblock h4:nth-child(1) {
+	margin: 20px 0px 0px;
+}
+.footerColumBlock h4 {
+	margin-top: 30px;
+}
+.new_bottom_box h4 {
+	font-size: 25px;
+	margin: 0px 0px 1px;
+}
+.new_bottom_box p {
+	font-size: 14px;
+}
+.new_bottom_box h4::after {
+	bottom: -26px;
+}
+.new_bottom_box h3 {
+	margin: 0px 0px 20px;
+}
+.mapBlock {
+	width: 100%;
+	margin: 0px;
+	padding: 0px 20px;
+}
+.mapBlock h3 {
+	font-size: 35px;
+}
+.mapBlock a {
+	padding: 7px 43px 7px 43px;
+}
+.findDealerBlock {
+	min-height: 340px;
+}
+.paddingCommon3 {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.okinawaVideo {
+	margin-top: 20px;
+    height: auto;
+}
+.okinawaVideo .videobg {
+	height: auto;
+}
+.okinawaVideo .videoReel {
+	top: 23%;
+	font-size: 23px;
+}
+.banner .owl-carousel .owl-item img {
+	transform: matrix(1, 0, 0, 1, -1, 0)!important;
+	max-width: 280px!important;
+	left: 0!important;
+}
+.slidetwo .slidebannerContentInner h2:after {
+	display: none;
+}
+.slidetwo .slidebannerContentInner .headingStyle {
+	font-size: 70px;
+}
+.slidetwo .slidebannerContentInner h2 {
+	font-size: 35px;
+}
+.slideone {
+	min-height: auto;
+}
+.slidetwo .greenbutton {
+	margin: 20px 0px 20px 0px;
+}
+.slideBTn {
+	margin-bottom: 40px;
+}
+.slidetwo .slidebannerContentInner h2.bannerSubHeading {
+	margin-left: 99px;
+}
+.slidetwo {
+	min-height: auto;
+}
+/*--portflio css mobile view--*/
+
+.G_portflio_mobileView {
+	display: block;
+}
+.animation-wrapper.desktop_view {
+	display: none;
+}
+.G_portflio_mobileView .left_section {
+	width: 100%;
+	float: left;
+	padding: 50px 0px 10px;
+}
+
+section.G_portflio_mobileView img {
+	border-top-left-radius: 70px;
+}
+.G_portflio_mobileView .content_block1 {
+	background: #0f2b27;
+}
+.G_portflio_mobileView .content_block2 {
+	background: #abd278;
+}
+.G_portflio_mobileView .content_block2 h2 {
+	color: #000
+}
+.G_portflio_mobileView .content_block2 p {
+	color: #000
+}
+.G_portflio_mobileView .content_block3 {
+	background: #0f2b27
+}
+.G_portflio_mobileView .content_block2 .left_section {
+	color: #fff;
+}
+.G_portflio_mobileView .right_section h2 {
+	font-size: 22px;
+}
+/*--portflio css mobile view--*/
+
+
+.praiseProBannerImg img {
+	max-width: 100%;
+}
+.praiseProBannerImg {
+	left: 0;
+}
+.headingStyle {
+	font-size: 60px;
+	text-align: center;
+}
+.productBannerContent h2 {
+	font-size: 35px;
+	text-align: center;
+	line-height: 40px;
+}
+.productBannerContent h2 span {
+	font-size: 40px;
+	display: inline-block;
+}
+.praiseProBannerContent {
+	right: 0;
+	top: 400px;
+	left: 0;
+	text-align: center;
+}
+.innerBanner {
+	margin-left: 0px;
+	min-height: 800px;
+}
+.headfixed .logo {
+	margin-left: 0px;
+}
+.outerWrapper {
+	margin-left: 0px;
+}
+.header.darkHeader {
+	padding-left: 15px;
+}
+.praiseProBannerImg img {
+	max-width: 100%;
+}
+.praiseProBannerImg {
+	position: absolute;
+	left: 30px;
+	top: 90px;
+}
+.prdt_weitBlock {
+	text-align: center;
+	padding: 0px!important;
+}
+.prdt_weitBlock ul li p {
+	font-size: 12px;
+	margin: 0px;
+}
+.prdt_weitBlock ul li h4 {
+	font-size: 18px;
+	margin: 0px 0px 0px;
+}
+.prdt_weitBlock ul li {
+	margin: 20px 0px 20px 0px;
+	padding: 0px 10px 0px 10px;
+}
+.prdt_weitBlock ul li {
+	width: 112px;
+	vertical-align: top;
+	text-align: center;
+}
+.productBannerContent .testDriveBtn {
+	margin: 10px 0 0 0px;
+}
+.paddingCommon1 {
+	padding: 40px 0;
+}
+.productMileage {
+	margin-top: 0px;
+	text-align: center;
+}
+.tab + label {
+	height: auto;
+	font-size: 16px;
+}
+.specific_listBLock ul li {
+	margin: 0;
+	padding: 20px 0px 20px;
+	width: 100%;
+}
+.tab-wrap {
+	margin: 40px 0 0px;
+}
+.headingContainer h2 {
+	font-size: 35px;
+	margin: 0px 0px 30px;
+}
+.paddingCommon4 {
+	padding-bottom: 0px;
+}
+h2.p-section__header {
+	font-size: 30px;
+}
+.wp-block-column h3 {
+	font-size: 16px;
+	text-align: center;
+	line-height: 23px;
+}
+.headingContainer {
+	padding: 0px 0px 40px!important;
+
+}
+.p-section__in {
+	width: 100%!important;
+	display: inline-block!important;
+	margin: 0px 0px 0px 0px!important;
+	position: relative;
+}
+.p-section {
+	height: auto!important;
+}
+.p-pager {
+	bottom: 30px!important;
+	left: -70px!important;
+}
+.fullscreen_slider1 {
+
+	height: 350px!important;
+}
+.p-pager__in {
+display: block!important;
+}
+.p-pager__pointer p {
+	font-size: 14px!important;
+}
+.p-pager__pointer {
+	height: 30px!important;
+	display: inherit!important;
+}
+h2.p-section__header {
+	font-size: 25px!important;
+}
+.p-section__text {
+	font-size: 14px!important;
+}
+.slideone .slidebannerContentInner, .litePorductbanner .slideone .slidebannerContentInner {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.banner {
+	margin-left: 0px;
+	text-align: center;
+}
+.slidetwo .slideBTn {
+	margin-left: 0px;
+}
+.shape4 {
+	height: 100%;
+}
+.slidetwo .wp-post-image {
+	margin: -60px 0px 0px 0px;
+}
+.slidetwo .slidebannerContentInner {
+	padding-top: 0;
+	padding-left: 0;
+	position: absolute;
+	top: 370px;
+}
+.specificationBlock img {
+	position: relative;
+	left: 0;
+	top: 0;
+	max-width: 100%;
+}
+.specificationBlock {
+	margin: 100px 0 40px;
+}
+
+.specificationBlock .col-lg-6.col-md-6.col-sm-12.col-xs-12 {
+    padding: 0px;
+}
+.partnersBlock h2 {
+	font-size: 35px;
+}
+.concetivty_block {
+	padding-bottom: 40px;
+}
+.partnersBlock {
+	padding-top: 40px;
+}
+.inner_blockbottom p {
+	margin: 0px 0 10px 0;
+}
+.innernewletter h4 {
+	width: 100%;
+	margin: 0px 0px 10px;
+}
+.innernewletter aside {
+	width: 100%;
+	padding: 0px 20px;
+}
+
+#newsletterwidgetminimal-2 .tnp-widget-minimal input.tnp-submit {
+	padding: 10px 15px;
+	font-size: 13px;
+}
+.newsletterBlock {
+	padding: 40px 0;
+}
+.footerColumBlock .widget {
+	margin-bottom: 15px;
+}
+.news_blog .owl-dots {
+	display: none;
+}
+.new_bottom_box h4, .new_bottom_box h4 a {
+	font-size: 15px;
+	line-height: 22px;
+	
+	font-weight: 500;
+	margin: 0px 0px 5px;
+	
+}
+
+.productSlider {
+	padding: 40px 0 40px;
+}
+
+.chargeGreyBlock {
+    min-height: auto;
+    background-attachment: fixed!important;
+    background-size: contain!important;
+}
+
+ul.colorpallete.ccplt li {
+    float: left;
+    width: 45%;
+    margin-right: 2%;
+    text-align: left;
+}
+.fadedTextBanner {
+    position: absolute;
+    z-index: -1;
+    left: 0;
+}
+.topContentBlock{
+	margin-top: 300px;	
+}
+.fame2block {
+    display: block;
+    margin: 40px 0;
+}
+
+.slidethree .slideBTn {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+}
+
+
+.banner .owl-carousel .owl-item .slidethree img {
+    transform: matrix(1, 0, 0, 1, -1, 0)!important;
+    max-width: 100%!important;
+    left: 0!important;
+}
+.slidethree .slidebannerContent .bannerImage img {
+     width: auto; 
+} 
+.slidethree .greenshape{
+	width:100%;
+}
+
+.featuredouterCCBlk .featureimg {
+    position: relative;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    height: auto;
+    z-index: 1;
+    width: 100%;
+    float: left;
+}
+.featuredouterCCBlk .featureimg img {
+    height: auto;
+}
+
+.featureCnt {
+    width: 100%;
+    float: left;
+    position: relative;
+    z-index: 10;
+    margin-top: 10%;
+    padding: 10px 30px;
+}
+
+.praiseProbanner {
+    position: relative;
+    background: #fff;
+    min-height: auto;
+}
+
+.praiseproscooterImg {
+    position: absolute;
+    z-index: 10;
+    top: 70px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-align: center;
+}
+.greenshape {
+    width: 100%;
+    margin: auto;
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 300px;
+    background: #daf4de;
+    border-bottom-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+    z-index: 1;
+}
+.featureBlockDiv {
+    background: #000;
+    position: relative;
+    height: auto;
+    width: 100%;
+    float: left;
+    padding: 50px 0;
+}
+
+.page-template-i-praiseplus-product-template .topContentBlock, .page-id-38 .topContentBlock {
+    margin-top: 0px;
+}
+
+.ridgeBannerContent {
+    position: absolute;
+    right: 0;
+    top: 350px;
+    text-align: center;
+}
+
+.slidethree .slidebannerContent {
+    position: absolute;
+    z-index: 10;
+    top: 100px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-align: center;
+}
+.slidethree .slidebannerContentInner{
+    position: absolute;
+    top: 130%;
+    text-align: center;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 70%;	
+}
+.slidethree .greenbutton{
+	margin: 20px 0;	
+}
+
+.navigation ul li.navContact a{
+    display: block;	
+}
+.header #topNav .closeMenu{
+	z-index: 1000;	
+}
+.page-id-46 .slidetwo .bannerImage {
+    position: relative;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width:90%;
+    top: 135px;
+    transition: top ease 0.5s;
+    /* text-align: center; */
+}
+.page-id-46 .slidetwo .slidebannerContentInner {
+	padding-top: 0;
+    padding-left: 0;
+    position: relative;
+    top: 100px;
+}
+.page-id-46 .topContentBlock {
+    margin-top: 150px;
+}
+.page-id-36 .praiseProBannerContent {
+    right: 0;
+    top: 550px;
+    left: 0;
+    text-align: center;
+}
+.page-id-36 .innerBanner {
+        margin-left: 0px;
+        min-height: 670px;
+}
+
+.page-id-32 .topContentBlock {
+    margin-top: 100px;
+}
+
+.banner .owl-carousel .owl-item .slideone img {
+    transform: matrix(1, 0, 0, 1, -1, 0)!important;
+    max-width: 100%!important;
+    left: 0!important;
+    display: initial!important;
+}
+.slideone .slidebannerContentInner h2{
+	font-size: 90px	
+}
+.slideone .slidebannerContentInner .headingStyle{
+    font-size: 80px;	
+}
+
+/*.banner .owl-carousel .owl-item .slidetwo img {
+    transform: matrix(1, 0, 0, 1, -1, 0)!important;
+    max-width: 70%!important;
+    left: 0!important;
+    margin: auto;
+}*/
+
+.banner .owl-carousel .owl-item .slidetwo .wp-post-image {
+    margin: -60px auto 0px auto!important;
+}
+
+/*.banner .owl-carousel .owl-item .slidetwo .slidebannerContentInner {
+    padding-top: 0;
+    padding-left: 0;
+    position: absolute;
+    top: 580px;
+}*/
+/*.banner .owl-carousel .owl-item .slidetwo .greenbutton {
+    margin: 20px 20px 20px 0px;
+}*/
+
+/*.banner .owl-carousel .owl-item .slidethree .greenbutton {
+    margin: 20px 20px;
+}*/
+/*Ridge Banner Css Start*/
+
+.innerBanner.ridgeBannerInner{
+	min-height:auto;	
+}
+.ridgeshape {
+    width: 100%;
+    height: 50%;
+    position: absolute;
+    left: 0px;
+    top: -85px;
+    background: url(../images/ridgebanner-inner-shape.png) no-repeat left bottom;
+}
+.ridgeproductRight{
+margin-top: 25%;	
+}
+.ridgeBannerInner .headingStyle{
+font-size: 80px;
+line-height: 70px;	
+}
+.ridgeproductLeft h2 {
+    font-size: 48px;
+    margin: -20px 0 0 0;
+    line-height: 50px;
+}
+.page-id-48 .topContentBlock {
+    margin-top: 0px;
+}
+h2.resp-accordion:first-child {
+    border-top: 0px solid #c1c1c1 !important;
+}
+.featuresHead {
+    text-align: center;
+    padding-left: 0;
+    padding-top: 0;
+    position: relative;
+    color: #fff;
+}
+
+/*Ridge Banner Css End*/
+
+/*Ridge+ Banner Css start*/
+
+.slidefour .ridgeplusshape {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top:-30%;
+    width: 100%;
+    height: 100vh;
+    background: url(../images/ridgeplus-shape.png) no-repeat center top;
+    margin: 0 auto;
+}
+.banner .owl-carousel .owl-item .slidefour .slidebannerContentInner img {
+
+    max-width: 80%!important;
+}
+.slidefour .slideBTn {
+    margin-left: 0px;
+    margin-top: 25px;
+}
+.slidefour .bannerImage {
+	position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 80%;
+    top: 90px;
+    transition: top ease 0.5s;
+}
+.slidefour .slidebannerContentInner {
+	padding-top: 100%;
+    padding-left: 0;
+    position: absolute;
+    z-index: 100;
+}
+.slidefour .slidebannerContentInner h2 {
+    height: auto;
+}
+.slidefour .slidebannerContentInner .headingStyle {
+    font-family: 'dubielitalic', arial, sans-serif;
+    color: #333333;
+    font-size: 50px;
+    font-weight: 300;
+    position: relative;
+    margin-left: 0;
+    display: block;
+    background: inherit!important;
+    -webkit-background-clip: inherit;
+    -webkit-text-fill-color: inherit;
+    margin-top: 0;
+}
+.slidefour .slidebannerContentInner h3 {
+    font-size: 70px;
+    margin: 0;
+    display: block;
+    color: #f85c22;
+    font-weight: 900;
+    font-style: italic;
+    text-transform: uppercase;
+}
+.slidefour .slidebannerContentInner h4 {
+    font-size: 70px;
+    margin: 0;
+    display: block;
+    color: #f85c22;
+    font-weight: 900;
+    font-style: italic;
+    text-transform: uppercase;
+}
+/*Ridge+ Banner Css end*/
+
+
+/*lite Banner Css Start*/
+
+/*.slideone .slidebannerContentInner .headingStyle{
+	color: #01b1ba!important;	
+}*/
+.slideone .slidebannerContentInner{
+	position: absolute;
+    top: 100%;	
+}
+.slideone .productBRBannerBlock{
+    position: absolute;
+    top: 180%;
+    right: 0;
+    display: block;	
+}
+.shape3 {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+}
+.slideone .slidebannerContentInner{
+    position: absolute;
+    top: 80%;	
+}
+.slideone .bannerImage{
+width: 90%;
+    top: 25px;	
+}
+/*lite Banner Css end*/
+
+/*R30 banner Css start*/
+
+.banner .owl-carousel .owl-item .slidetwo img{
+    max-width: 90%!important;	
+	display: inline-block!important;
+}
+.banner .owl-carousel .owl-item .slidetwo .slidebannerContentInner {
+    padding-top: 0;
+    padding-left: 0;
+    position: absolute;
+    top: 490px;
+}
+.banner .owl-carousel .owl-item .slidetwo .productBRBannerBlock img{
+	display: inline-block!important;
+}
+.slidetwo .productBRBannerBlock {
+    display: block;
+}
+.banner .owl-carousel .owl-item .slidetwo .greenbutton {
+    margin: 20px 10px 20px 0px;
+}
+
+/*R30 banner Css end*/	
+
+/*PraisePro banner Css start*/
+
+.slidethree .greenshape {
+    height: 50vh;
+}
+.banner .owl-carousel .owl-item .slidethree .greenbutton {
+    margin: 20px 0px;
+}
+
+/*PraisePro banner Css end*/
+
+
+/*iPraiseplus banner Css start*/
+
+.slidefive .slidebannerContentInner {
+    padding-top: 110%;
+    padding-left: 0;
+    position: absolute;
+    z-index: 100;
+    left: 0;
+}
+.banner .owl-carousel .owl-item .slidefive img {
+    transform: matrix(1, 0, 0, 1, -1, 0)!important;
+    max-width: 100%!important;
+    left: 0!important;
+}
+.slidefive .bannerImage {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 50px 0 0 0;
+    width: 100%;
+    top: 0;
+    transition: top ease 0.5s;
+}
+.slidefive .slidebannerContentInner h2.bannerSubHeading {
+    margin-top: -40px;
+    margin-left: 0px;
+    position: relative;
+}
+.slidefive .slidebannerContentInner .headingStyle {
+    font-family: 'high_tide_-_demoregular', arial, sans-serif;
+    color: #000;
+    font-size: 90px;
+    font-weight: 300;
+    position: relative;
+    background: inherit!important;
+    -webkit-background-clip: inherit;
+    -webkit-text-fill-color: inherit;
+    z-index: 1;
+}
+.slidefive .slidebannerContentInner h2 {
+    font-size: 70px;
+    margin: 0;
+    display: block;
+    color: #ef2134;
+    font-weight: 700;
+    position: relative;
+    font-style: italic;
+    margin-top: 0;
+}
+.slidefive .shape5 {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 95%;
+    height: 50vh;
+    background: #fed8d8;
+    margin: 0 auto;
+    opacity: 1;
+    -webkit-border-bottom-right-radius: 70px;
+    -moz-border-radius-bottomright: 70px;
+    border-bottom-right-radius: 70px;
+    top: 0;
+}
+
+/*iPraiseplus banner Css end*/
+	 .productBRBannerBlock{display:none!important;}	 
+	 
+	 
+/*Contact page css strat*/
+
+.contactleft_block, .contactright_block {
+    width: 100%;
+}
+.inner_contctbg{
+margin:40px 0px 40px;	
+}
+
+/*Contact page css end*/	
+
+
+/*Blog Listing and Details pages css start*/
+
+.blog .post-thumbnail{
+    height: auto;	
+}
+.blogheading {
+    font-size: 38px;
+    margin-top: 60px;
+}
+
+/*Blog Listing and Details pages css end*/
+
+/*Waranty and Book Ride pages css start*/
+
+.contentInnerbanner.bookridebanner {
+    padding: 208px 0 0 0;
+    margin-top: 65px;
+}
+.contentInnerbanner.bookridebanner h1{
+    color: #fff;
+    background: rgba(0,0,0,.7);
+    display: inline-block;
+    padding: 10px 10px;
+    border-radius: 100px;
+    font-size: 28px;	
+}
+
+/*Waranty and Book Ride pages css end*/
+
+.contentInnerbanner, .contentInnerbanner.rsabanner {
+    padding: 165px 0 20px 0;
+}
+.contentInnerbanner h1, contentInnerbanner.rsabanner h1{
+    font-size: 24px;
+}
+
+/*Ridge30 css start*/
+
+.ridge30shape {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 60vh;
+    background: #fedfdf;
+    margin-left: 0;
+    border-bottom-right-radius: 70px;
+}
+.ridgeproductLeft {
+    float: none;
+    width: 100%;
+    margin-top: 30%;
+    margin-right: 0;
+    position: relative;
+    right: 0;
+    z-index: 10;
+    left: 0;
+    text-align: center;
+}
+.ridgeproductRight {
+    margin-top: 30px;
+}
+.ridgeBannerInner .headingStyle{
+	margin-top: 0;	
+}
+.page-id-1738 .topContentBlock {
+    margin-top: 0;
+}
+
+/*Ridge30 css end*/
+
+h2.resp-accordion:first-child {
+    border-top: 0!important;
+}
+
+/*Ridge css Start*/
+
+.page-id-48 .ridgeproductRight {
+    margin-top: 88px;
+}
+
+/*Ridge css end*/
+
+.ridgeplusVideo .videobg {
+    height: auto;
+}
+.ridgeplusVideo {
+    height: auto;
+}
+
+
+/*Praise css Start*/
+	 
+.page-id-42 .ipraiseplusBannerContent .shape5{
+    width: 100%;
+    height: 50vh;	
+}
+.page-id-42 .ipraiseplusBannerContent .praiseProBannerContent {
+    position: relative;
+    right: 0;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+}
+.page-id-42 .ipraiseplusBannerContent .praiseProBannerImg{
+	position: relative;
+    left: 0;	
+}
+.page-id-42 .ipraiseplusBannerContent .praiseProBannerContent {
+	position: relative;
+    right: 0;
+    top: 90px;
+    width: 100%;
+    z-index: 10;
+}
+.page-id-42 .ipraiseplusBannerContent .praiseProBannerContent.praiseBannerInner .headingStyle {
+    margin-top: 25px;
+	    font-size: 70px;
+    text-align: center;
+}
+.page-id-42 .ipraiseplusBannerContent .praiseProBannerImg.praiseBannerInnerImg {
+    top: 75px;
+}
+
+.page-id-42 .ipraiseplusBannerContent .productBannerContent .testDriveBtn {
+    margin: 40px 0;
+}
+.page-id-42 .ipraiseplusBannerContent .praiseProBannerContent h2 {
+    font-size: 68px;
+    margin: 0;
+    display: block;
+    color: #242424;
+    font-weight: 900;
+    position: relative;
+    font-style: italic;
+    margin-top: 0;
+    margin-left: 0;
+}
+.page-id-42 .topContentBlock {
+    margin-top:0px;
+}
+	 
+/*Praise css end*/
+
+/*ridgeplus css Start*/
+
+.ridgeplusleft {
+    width: 100%;
+    float: left;
+    margin-top: 100px;
+	text-align:center;
+}
+.ridgeplusimgRight {
+    width: 100%;
+    float: left;
+    margin-top: 50px;
+}
+.ridgeplusleft h4 {
+    font-size: 70px;
+    margin: 0;
+    display: block;
+    color: #10317a;
+    font-weight: 900;
+    font-style: italic;
+    text-transform: uppercase;
+    text-align: center;
+}
+.ridgeplusleft h3 {
+    font-size: 60px;
+    margin: 0;
+    display: block;
+    color: #10317a;
+    font-weight: 900;
+    font-style: italic;
+    text-transform: uppercase;
+    text-align: center;
+}
+.ridgeplusleft .headingStyle {
+    font-family: 'dubielitalic', arial, sans-serif;
+    color: #333333;
+    font-size: 55px;
+    font-weight: 300;
+    position: relative;
+    margin-left: 0;
+    display: block;
+    background: inherit!important;
+    -webkit-background-clip: inherit;
+    -webkit-text-fill-color: inherit;
+    margin-top: -12px;
+}
+.ridgeplusleft h2 {
+    height: auto;
+}
+.ridgeplusshape {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    background: url(../images/ridgeplus-shape.png) no-repeat center top;
+    margin: 0 auto;
+}
+.productBannerContent .testDriveBtn {
+    margin: 10px auto;
+    text-align: center;
+}
+
+/*ridgeplus css Start*/
+
+/*Praisepro css start*/
+
+.redpraiseproshape {
+    width: 100%;
+    margin: auto;
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 30vh;
+    background: #fce3e4;
+    border-bottom-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+    z-index: 1;
+}
+
+/*Praisepro css end*/
+
+
+
+/*iPraiseplus css Start*/
+	 
+.ipraiseplusBannerContent .shape5{
+    width: 100%;
+    height: 50vh;	
+}
+.ipraiseplusBannerContent .praiseProBannerContent {
+    position: relative;
+    right: 0;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+}
+.ipraiseplusBannerContent .praiseProBannerImg{
+	position: relative;
+    left: 0;
+	top: 50px;	
+}
+.ipraiseplusBannerContent .praiseProBannerContent {
+	position: relative;
+    right: 0;
+    top: 90px;
+    width: 100%;
+    z-index: 10;
+}
+.ipraiseplusBannerContent .praiseProBannerContent .headingStyle {
+    margin-top: 0px;
+    font-size: 100px;
+    text-align: center;
+}
+.ipraiseplusBannerContent .praiseProBannerImg.praiseBannerInnerImg {
+    top: 75px;
+}
+
+.ipraiseplusBannerContent .productBannerContent .testDriveBtn {
+    margin: 20px 0;
+}
+.ipraiseplusBannerContent .praiseProBannerContent h2 {
+    font-size: 68px;
+    margin: 0;
+    display: block;
+    color: #242424;
+    font-weight: 900;
+    position: relative;
+    font-style: italic;
+    margin-top: 0;
+    margin-left: 0;
+}
+.page-id-36 .topContentBlock {
+    margin-top:0px;
+}
+	 
+/*iPraiseplus css end*/
+
+
+/*praisepro home page banner css start*/
+
+.praiseprohomeshape {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+    height: 50vh;
+    background: #c0c0c0;
+    border-bottom-left-radius: 70px;
+    transform: skew(0, 0deg);
+
+}
+.praiseproslide .slidebannerContentInner {
+    padding-top: 100%;
+    padding-left: 0;
+    position: absolute;
+    z-index: 100;
+}
+.item .praiseproslide .bannerImage img.fadedTextBanner {
+    left: 16%;
+    top: 0;
+    width: 80%;
+    left: 18%!important;
+}
+.banner .owl-carousel .owl-item .praiseproslide img {
+    transform: matrix(1, 0, 0, 1, -1, 0)!important;
+    max-width: 100%!important;
+    left: 0!important;
+    margin: auto;
+    text-align: center;
+    right: 0!important;
+}
+.praiseproslide .bannerImage {
+    position: absolute;
+    right: 0;
+    margin: 0 auto;
+    top: 90px;
+    transition: top ease 0.5s;
+}
+.praiseproslide .slidebannerContentInner h4 {
+    font-size: 68px;
+    margin: 0;
+    display: block;
+    color: #004892;
+    font-weight: 900;
+    font-style: italic;
+    text-transform: uppercase;
+}
+.praiseproslide .slidebannerContentInner h3 {
+    font-size: 60px;
+    margin: 50px 0 0 0;
+    display: block;
+    color: #004892;
+    font-weight: 900;
+    font-style: italic;
+    text-transform: uppercase;
+}
+/*praisepro home page banner css end*/
+
+
+.slidefour .greenbutton {
+    margin: 0px 0px 20px 0px;
+}
+	 
+.praiseproslide .greenbutton {
+    margin: 0px 0px 20px 0px;
+}
+	 
+.mobilevideobg {
+        background: url(../../../uploads/2020/04/iphone.png) no-repeat center center;
+        width: 100%;
+        height: 690px;
+}	 
+	 
+ .mobilevideobg .videobg {
+    width: 100%;
+    top: 46px;
+    right: 0;
+    left: -18px;
+    height: 615px;
+}
+
+.paddingCommon5 {
+    padding: 40px 0;
+}
+
+.ridgeplusleft h4 {
+    font-size: 70px;
+    margin: -15px 0 0 0;
+}
+
+.ridgeplusleft h3 {
+    font-size: 40px;
+	margin: -20px 0 0 0;
+}
+.ridgeplusimgRight {
+    width: 100%;
+}
+.ridgeplusleft .headingStyle {
+    font-size: 45px;
+    margin-top: -64px;
+}
+
+.ridgeplusleft .headingStyle {
+    margin-left: 0px;
+}
+.ridgeplusleft {
+    width: 100%;
+}
+.ridgeplusleft {
+    margin-top: 90px;
+	width:100%;
+}
+.productBannerContent h2 {
+    margin: 0px 0px 20px;
+}
+.ridgeplusshape {
+    height: 100%;
+}
+.ridgeplusBannerContent.innerBanner {
+    min-height: 720px;
+}
+
+.ridgeplusVideo {
+height: 100%}
+
+
+.footerColumBlock img {
+    width: 100%;
+    margin: 0px 0px 30px;
+}
+
+
+.footer_block {
+    padding-top: 50px!Important;
+	 text-align: center;
+}
+.innernewletter h4 {
+    width: 100%;
+}
+
+.innernewletter aside {
+    float: left;
+    width: 100%;
+    padding: 0px 15px;
+}
+
+
+.slidefive .greenbutton {
+    margin: 30px 20px 30px 0px;
+}
+
+
+	 
+	 
+	 .page-id-1574 .wp-block-video video {
+    width: 100%;
+}
+	 
+	 .innernewletter aside#newsletterwidgetminimal-2 .tnp-widget-minimal input.tnp-email {
+    width: 79%;
+}
+	 
+	 .innernewletter {
+    display: inline-block;
+}
+	 
+	 .wpostahs-slider-design-2 .wpostahs-slider-nav {
+    padding: 0 50px;
+}
+.woocommerce .paddingCommon1 {
+    padding: 100px 0px 0px;
+}
+.woocommerce article {
+    padding: 0px 20px;
+}
+
+
+.woocommerce .woocommerce-ordering select {
+    width: 100%;
+}
+
+.woocommerce .woocommerce-result-count {
+    width: 100%;
+}
+
+.woocommerce ul.products[class*=columns-] li.product, .woocommerce-page ul.products[class*=columns-] li.product {
+    width: 100%;
+}
+.woocommerce .woocommerce-ordering {
+    width: 100%;
+}
+.woocommerce .woocommerce-ordering select {
+    width: 100%;
+    padding: 7px 10px;}
+	
+.woocommerce ul.products {
+    margin: 1em 0 0em;
+}
+.woocommerce ul.products[class*=columns-] li.product, .woocommerce-page ul.products[class*=columns-] li.product {
+    margin: 0 0 1.992em;
+}
+
+
+
+
+
+
+.upcomingscooter .bannerImage{
+	margin-left:0;	
+}
+.banner .owl-carousel .owl-item .upcomingscooter img {
+    width: 100%;
+    max-width: min-content!important;
+    height: 100%;
+}
+
+.woocommerce #content div.product div.images, .woocommerce div.product div.images, .woocommerce-page #content div.product div.images, .woocommerce-page div.product div.images{
+	width:100%;
+}
+.woocommerce #content div.product div.summary, .woocommerce div.product div.summary, .woocommerce-page #content div.product div.summary, .woocommerce-page div.product div.summary {
+    float: right;
+    width: 100%;
+    clear: none;
+}
+.woocommerce-Tabs-panel ul li {
+    width: 100%;
+    float: left;
+    margin-right: 0%;
+}
+.woocommerce-Tabs-panel ul li h4 {
+    width: 100%;
+    float: left;
+    margin-right: 3%;
+    margin-bottom: 0;
+}
+.woocommerce-Tabs-panel ul li p {
+    width: 100%;
+    float: left;
+    margin-right: 0;
+}
+
+
+
+
+}
+
+@media only screen and (max-width: 600px) {
+.innernewletter aside#newsletterwidgetminimal-2 .tnp-widget-minimal input.tnp-email {
+    width: 76%;
+}
+
+.woocommerce .paddingCommon1 {
+    padding: 100px 0px 0px;
+}
+.woocommerce article {
+    padding: 0px 20px;
+}
+
+
+.woocommerce .woocommerce-ordering select {
+    width: 100%;
+}
+
+.woocommerce .woocommerce-result-count {
+    width: 100%;
+}
+
+.woocommerce ul.products[class*=columns-] li.product, .woocommerce-page ul.products[class*=columns-] li.product {
+    width: 100%;
+}
+.woocommerce .woocommerce-ordering {
+    width: 100%;
+}
+.woocommerce .woocommerce-ordering select {
+    width: 100%;
+    padding: 7px 10px;}
+
+.woocommerce ul.products {
+    margin: 1em 0 0em;
+}
+
+.woocommerce ul.products[class*=columns-] li.product, .woocommerce-page ul.products[class*=columns-] li.product {
+    margin: 0 0 1.992em;
+}
+
+
+
+}
+
+
+
+@media only screen and (max-width: 480px) {
+	
+	.innernewletter {
+    width: 100%;
+}
+
+	.abouthead .wpostahs-slider-design-2 .wpostahs-centent {
+    padding-left:0;
+	padding-right:0;
+}
+	
+.innernewletter aside#newsletterwidgetminimal-2 .tnp-widget-minimal input.tnp-email {
+    width: 68.5%;
+}
+
+.innernewletter aside {
+    float: none;
+    text-align: center;
+}
+
+.woocommerce .paddingCommon1 {
+    padding: 100px 0px 0px;
+}
+.woocommerce article {
+    padding: 0px 20px;
+}
+
+.woocommerce .woocommerce-ordering select {
+    width: 100%;
+}
+
+.woocommerce .woocommerce-result-count {
+    width: 100%;
+}
+
+.woocommerce ul.products[class*=columns-] li.product, .woocommerce-page ul.products[class*=columns-] li.product {
+    width: 100%;
+}
+.woocommerce .woocommerce-ordering {
+    width: 100%;
+}
+.woocommerce .woocommerce-ordering select {
+    width: 100%;
+    padding: 7px 10px;}
+	
+.woocommerce ul.products {
+    margin: 1em 0 0em;
+}
+.woocommerce ul.products[class*=columns-] li.product, .woocommerce-page ul.products[class*=columns-] li.product {
+    margin: 0 0 1.992em;
+}
+
+
+
+	
+}
